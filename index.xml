@@ -5,12 +5,20 @@
     <link>https://kushal2000.github.io/</link>
       <atom:link href="https://kushal2000.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kushal Kedia</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2020 19:52:59 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 19:15:34 +0530</lastBuildDate>
     <image>
-      <url>https://kushal2000.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kushal2000.github.io/images/icon_hu9b433284b231d7479ca9c11dbf9b91cd_4912_512x512_fill_lanczos_center_3.png</url>
       <title>Kushal Kedia</title>
       <link>https://kushal2000.github.io/</link>
     </image>
+    
+    <item>
+      <title>Kgp Kubs at Robocup Humanoid League - Team Description Paper</title>
+      <link>https://kushal2000.github.io/publication/kgpkubs/</link>
+      <pubDate>Tue, 06 Jul 2021 19:15:34 +0530</pubDate>
+      <guid>https://kushal2000.github.io/publication/kgpkubs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploiting Code-Switching Patterns to Improve Sentiment Detection</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>Kgp Kubs Team Description Paper</title>
-      <link>https://kushal2000.github.io/publication/kgpkubs/</link>
+      <title>Offensive Language Identification in Dravidian Languages</title>
+      <link>https://kushal2000.github.io/publication/indic/</link>
       <pubDate>Fri, 06 Nov 2020 19:15:34 +0530</pubDate>
-      <guid>https://kushal2000.github.io/publication/kgpkubs/</guid>
+      <guid>https://kushal2000.github.io/publication/indic/</guid>
       <description></description>
     </item>
     
@@ -37,10 +45,26 @@
     </item>
     
     <item>
+      <title>Optimal Multi-Agent Path Finding for Precedence Constrained Planning Tasks</title>
+      <link>https://kushal2000.github.io/publication/mapf/</link>
+      <pubDate>Mon, 01 Jun 2020 19:04:40 +0530</pubDate>
+      <guid>https://kushal2000.github.io/publication/mapf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robotic Motion Planning using Learned Critical Sources and Local Sampling</title>
       <link>https://kushal2000.github.io/publication/csrrt/</link>
       <pubDate>Mon, 01 Jun 2020 19:04:40 +0530</pubDate>
       <guid>https://kushal2000.github.io/publication/csrrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrain-Aware Learned Controllers for Kinodynamic Planning over Physically Simulated Terrains</title>
+      <link>https://kushal2000.github.io/publication/terrain/</link>
+      <pubDate>Mon, 01 Jun 2020 19:04:40 +0530</pubDate>
+      <guid>https://kushal2000.github.io/publication/terrain/</guid>
       <description></description>
     </item>
     
